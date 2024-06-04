@@ -7,6 +7,8 @@
 
 
 getwd()
+#setwd("ANY\\DIRECTORY")
+#setwd("ANY/DIRECTORY")
 setwd("C:\\Users\\Wero_Setem_12\\Desktop\\R")
 setwd("C:\\Users\\Wero_Setem_12\\Desktop\\R")
 getwd()
